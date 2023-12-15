@@ -1,7 +1,7 @@
 Aluno: Rodrigo César
 
 
-Curso: Engenharia Informatica e Telecomunicações 
+Curso: Engenharia Informática e Telecomunicações 
 
 
 
